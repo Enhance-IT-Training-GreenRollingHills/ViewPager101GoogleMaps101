@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/solved_cases_item"
+        android:title="Solved Cases"
+        android:icon="@drawable/ic_menu">
+
+    </item>
+
+    <item
+        android:id="@+id/open_cases"
+        android:title="Open Cases"
+        android:icon="@drawable/ic_baseline_search_24">
+
+    </item>
+
+    <item
+        android:id="@+id/locations_item"
+        android:title="Case Locations"
+        android:icon="@drawable/ic_location">
+
+    </item>
+
+</menu>
